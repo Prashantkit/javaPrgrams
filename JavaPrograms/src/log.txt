@@ -1,0 +1,134 @@
+12-18 10:46:45.724  1042  1042 D Zygote  : Forked child process 24277
+12-18 10:46:45.729  1367  1528 I ActivityManager: Start proc 24277:com.sprint.care/u0a83 for mllaunch {com.sprint.care/com.sprint.app.ui.home.HomeActivity}
+12-18 10:46:45.732 24277 24277 E Zygote  : isWhitelistProcess - Process is Whitelisted
+12-18 10:46:45.735 24277 24277 E Zygote  : accessInfo : 1
+12-18 10:46:45.757 24277 24277 E com.sprint.car: Not starting debugger since process cannot load the jdwp agent.
+12-18 10:46:45.768 24277 24277 D ActivityThread: setConscryptValidator
+12-18 10:46:45.769 24277 24277 D ActivityThread: setConscryptValidator - put
+12-18 10:46:45.878 24277 24277 I FirebaseInitProvider: FirebaseApp initialization successful
+12-18 10:46:45.883 24277 24306 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:17 and remote module com.google.android.gms.measurement.dynamite:0
+12-18 10:46:45.883 24277 24277 I CrashlyticsInitProvider: CrashlyticsInitProvider skipping initialization
+12-18 10:46:45.883 24277 24306 I DynamiteModule: Selected local version of com.google.android.gms.measurement.dynamite
+12-18 10:46:45.884 24277 24277 D QUV     : coming authority:com.sprint.care.InitLibProvider
+12-18 10:46:45.887 24277 24277 I QUV     : isDebugable() isDebugable:false
+12-18 10:46:45.888 24277 24277 I QUV.InitLibProvider: onCreate() Logger initialized;
+12-18 10:46:45.888 24277 24277 I QUV.InitLibProvider: onCreate() QUV library version:4.0.4
+12-18 10:46:45.888 24277 24277 W QUV.InitLibProvider: onCreate() QUV library version:4.0.4
+12-18 10:46:45.888 24277 24277 E QUV.InitLibProvider: onCreate() QUV library version:4.0.4
+12-18 10:46:45.888 24277 24277 I QUV.InitLibProvider: registerReceiver()
+12-18 10:46:45.892 24277 24306 W com.sprint.car: Unsupported class loader
+12-18 10:46:45.895 24277 24306 W com.sprint.car: Skipping duplicate class check due to unsupported classloader
+12-18 10:46:46.016 24277 24277 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+12-18 10:46:46.028 24277 24309 I FA      : App measurement initialized, version: 31049
+12-18 10:46:46.029 24277 24309 I FA      : To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+12-18 10:46:46.029 24277 24309 I FA      : To enable faster debug mode event logging run:
+12-18 10:46:46.029 24277 24309 I FA      :   adb shell setprop debug.firebase.analytics.app com.sprint.care
+12-18 10:46:46.039 24277 24293 I com.sprint.car: Compiler allocated 4559KB to compile java.util.List e.d.a.h.a.A()
+12-18 10:46:46.050 24277 24277 D libmdf  : libmdf v2.9.0.0 On 64bit PLATFORM
+12-18 10:46:46.070   913   913 I lmkd    : check proc pid launching app : 24277
+12-18 10:46:46.133   838   860 E ANDR-PERF-UTIL: Failed to update node /proc/24277/sched_boost with value 2
+12-18 10:46:46.133   838   860 E ANDR-PERF-OPTSHANDLER: can't boost task 24277
+12-18 10:46:46.146  1367  1514 D GameSDK@LifeCycle: onFocusedPackageChanged(): newPkgName: com.sprint.care, newPid: 24277
+12-18 10:46:46.152 24277 24293 I com.sprint.car: Compiler allocated 4907KB to compile java.util.List e.d.a.h.a.A()
+12-18 10:46:46.518 24277 24277 I CrashlyticsCore: Initializing Crashlytics Core 2.7.0.33
+12-18 10:46:46.527 24277 24359 W DynamiteModule: Local module descriptor class for providerinstaller not found.
+12-18 10:46:46.534 24277 24359 I DynamiteModule: Considering local module providerinstaller:0 and remote module providerinstaller:0
+12-18 10:46:46.534 24277 24359 W ProviderInstaller: Failed to load providerinstaller module: No acceptable module found. Local version is 0 and remote version is 0.
+12-18 10:46:46.538 24277 24359 I com.sprint.car: The ClassLoaderContext is a special shared library.
+12-18 10:46:46.545 24277 24359 I com.sprint.car: The ClassLoaderContext is a special shared library.
+12-18 10:46:46.619 24277 24359 V NativeCrypto: Registering com/google/android/gms/org/conscrypt/NativeCrypto's 288 native methods...
+12-18 10:46:46.635 24277 24359 I ProviderInstaller: Installed default security provider GmsCore_OpenSSL
+12-18 10:46:46.903 24277 24277 I CYFMonitor: Initializing Akamai BMP SDK Version 2.2.2
+12-18 10:46:46.903 24277 24277 I CYFMonitor: Initializing Akamai BMP Monitor
+12-18 10:46:46.942 24277 24277 W ActivityThread: handleWindowVisibility: no activity for token android.os.BinderProxy@48751b
+12-18 10:46:46.956 24277 24389 D TcpOptimizer: TcpOptimizer-ON
+12-18 10:46:46.963 24277 24277 E com.sprint.car: Invalid ID 0x00000000.
+12-18 10:46:46.967 24277 24277 D PhoneWindow: forceLight changed to true [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4274 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2474 
+12-18 10:46:46.967 24277 24277 D PhoneWindow: forceLight changed to false [] from com.android.internal.policy.PhoneWindow.updateForceLightNavigationBar:4280 com.android.internal.policy.DecorView.updateColorViews:1547 com.android.internal.policy.PhoneWindow.dispatchWindowAttributesChanged:3252 android.view.Window.setFlags:1153 com.android.internal.policy.PhoneWindow.generateLayout:2620 
+12-18 10:46:46.967 24277 24277 I MultiWindowDecorSupport: [INFO] isPopOver = false
+12-18 10:46:46.967 24277 24277 I MultiWindowDecorSupport: updateCaptionType >> DecorView@4d93b32[], isFloating: false, isApplication: true, hasWindowDecorCaption: false, hasWindowControllerCallback: true
+12-18 10:46:46.967 24277 24277 D MultiWindowDecorSupport: setCaptionType = 0, DecorView = DecorView@4d93b32[]
+12-18 10:46:46.976 24277 24277 D ScrollView: initGoToTop
+12-18 10:46:47.228 24277 24277 W Settings: Setting airplane_mode_on has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+12-18 10:46:47.295 24277 24277 D SensorManager: registerListener :: 28, lsm6dsm Accelerometer Non-wakeup, 200000, 0,  
+12-18 10:46:47.300 24277 24309 I FA      : Tag Manager is not found and thus will not be used
+12-18 10:46:47.308 24277 24277 D SensorManager: registerListener :: 19, LSM6DSL Gyroscope, 200000, 0,  
+12-18 10:46:47.312 24277 24277 D SensorManager: registerListener :: 28, lsm6dsm Accelerometer Non-wakeup, 200000, 0,  
+12-18 10:46:47.326 24277 24277 D SensorManager: registerListener :: 26, AK09916C Magnetometer, 200000, 0,  
+12-18 10:46:47.332 24277 24277 D SensorManager: registerListener :: 18, gravity  Non-wakeup, 200000, 0,  
+12-18 10:46:47.333 24277 24277 D SensorManager: unregisterListener :: 28, lsm6dsm Accelerometer Non-wakeup,  
+12-18 10:46:47.340  1367 11781 D SamsungAlarmManager: Cancel Alarm calling from uid:10083 pid :24277 / op:PendingIntent{df84245: PendingIntentRecord{d436d9a com.sprint.care broadcastIntent}}
+12-18 10:46:47.356 24277 24277 I ViewRootImpl@d5aa4b[HomeActivity]: setView = com.android.internal.policy.DecorView@4d93b32 TM=true MM=false
+12-18 10:46:47.374 24277 24313 I care    : isDebugable() isDebugable:false
+12-18 10:46:47.380   917  1001 I SurfaceFlinger: id=77930 createSurf (1080x2220),1 flag=404, com.sprint.care/com.sprint.app.ui.home.HomeActivity$_24277#0
+12-18 10:46:47.382  1367 10625 D WindowManager: makeSurface duration=2 name=com.sprint.care/com.sprint.app.ui.home.HomeActivity$_24277
+12-18 10:46:47.383  1367 10625 V WindowManager: Relayout 24277: mAttrs={(0,0)(fillxfill) sim={adjust=pan forwardNavigation} ty=BASE_APPLICATION wanim=0x1030305
+12-18 10:46:47.385 24277 24277 I ViewRootImpl@d5aa4b[HomeActivity]: Relayout returned: old=(0,0,1080,2220) new=(0,0,1080,2220) req=(1080,2220)0 dur=6 res=0x7 s={true 477474856960} ch=true
+12-18 10:46:47.385 24277 24395 D OpenGLRenderer: createReliableSurface : 0x6f2ae29fc0(0x6f2bb82000)
+12-18 10:46:47.385 24277 24395 I AdrenoGLES: QUALCOMM build                   : c6aa191, Icf837f9808
+12-18 10:46:47.385 24277 24395 I AdrenoGLES: Build Date                       : 03/12/20
+12-18 10:46:47.385 24277 24395 I AdrenoGLES: OpenGL ES Shader Compiler Version: EV031.27.05.01
+12-18 10:46:47.385 24277 24395 I AdrenoGLES: Local Branch                     : 
+12-18 10:46:47.385 24277 24395 I AdrenoGLES: Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.UM.8.3.R1.10.00.00.520.058
+12-18 10:46:47.385 24277 24395 I AdrenoGLES: Remote Branch                    : NONE
+12-18 10:46:47.385 24277 24395 I AdrenoGLES: Reconstruct Branch               : NOTHING
+12-18 10:46:47.385 24277 24395 I AdrenoGLES: Build Config                     : S P 8.0.11 AArch64
+12-18 10:46:47.388 24277 24277 D ScrollView:  onsize change changed 
+12-18 10:46:47.389 24277 24395 I AdrenoGLES: PFP: 0x016ee187, ME: 0x00000000
+12-18 10:46:47.396 24277 24395 D OpenGLRenderer: makeCurrent EglSurface : 0x0 -> 0x0
+12-18 10:46:47.404 24277 24395 D OpenGLRenderer: eglCreateWindowSurface : 0x6eaa19f780
+12-18 10:46:47.407 24277 24395 D OpenGLRenderer: makeCurrent EglSurface : 0x0 -> 0x6eaa19f780
+12-18 10:46:47.409 24277 24395 W Gralloc3: mapper 3.x is not supported
+12-18 10:46:47.426 24277 24277 I ViewRootImpl@d5aa4b[HomeActivity]: MSG_WINDOW_FOCUS_CHANGED 1 1
+12-18 10:46:47.426 24277 24277 D InputMethodManager: prepareNavigationBarInfo() DecorView@4d93b32[HomeActivity]
+12-18 10:46:47.426 24277 24277 D InputMethodManager: getNavigationBarColor() -16777216
+12-18 10:46:47.428 24277 24277 D InputMethodManager: prepareNavigationBarInfo() DecorView@4d93b32[HomeActivity]
+12-18 10:46:47.428 24277 24277 D InputMethodManager: getNavigationBarColor() -16777216
+12-18 10:46:47.428 24277 24277 V InputMethodManager: Starting input: tba=com.sprint.care ic=null mNaviBarColor -16777216 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-18 10:46:47.428 24277 24277 D InputMethodManager: startInputInner - Id : 0
+12-18 10:46:47.428 24277 24277 I InputMethodManager: startInputInner - mService.startInputOrWindowGainedFocus
+12-18 10:46:47.437  1367 11781 V InputMethodManagerService: Creating new session for client ClientState{b1e5816 uid=10083 pid=24277 displayId=0}
+12-18 10:46:47.441  1367  9015 V InputMethodManagerService: Enabling: SessionState{uid 10083 pid 24277 method f3434f6 session 59fdfa2 channel ClientState{b1e5816 uid=10083 pid=24277 displayId=0} (server)}
+12-18 10:46:47.443 24277 24277 I ViewRootImpl@d5aa4b[HomeActivity]: MSG_RESIZED: frame=(0,0,1080,2220) ci=(0,63,0,126) vi=(0,63,0,126) or=1
+12-18 10:46:47.444 24277 24277 D InputMethodManager: prepareNavigationBarInfo() DecorView@4d93b32[HomeActivity]
+12-18 10:46:47.444 24277 24277 D InputMethodManager: getNavigationBarColor() -16777216
+12-18 10:46:47.444 24277 24277 V InputMethodManager: Starting input: tba=com.sprint.care ic=null mNaviBarColor -16777216 mIsGetNaviBarColorSuccess true , NavVisible : true , NavTrans : false
+12-18 10:46:47.444 24277 24277 D InputMethodManager: startInputInner - Id : 0
+12-18 10:46:47.446 11436 11436 I HONEYBOARD: HoneyBoardService [IMI] onStartInput - caller pid : 24277 , caller uid : 10083 
+12-18 10:46:47.452 24277 24457 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.452 24277 24457 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.458 24277 24458 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.458 24277 24458 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.469  1367 10625 D InputDispatcher: Focus entered window (24277): 96904a7 in display 0 0
+12-18 10:46:47.474 24277 24456 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.474 24277 24456 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.498 24277 24468 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.498 24277 24468 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.534   917   917 I SurfaceFlinger:      CLIENT | 0x7291137f50 | 0002 | RGBA_8888 |   0.0  772.0 1080.0 1852.0 |  469 1433  611 1575 | com.sprint.care/com.sprint.app.ui.home.HomeActivity$_24277#0
+12-18 10:46:47.583 24277 24456 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.583 24277 24456 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.766 24277 24458 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.766 24277 24458 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.796 24277 24468 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.796 24277 24468 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.839 24277 24291 W System  : A resource failed to call close. 
+12-18 10:46:47.859 24277 24468 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.859 24277 24468 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.869 15464 15813 I SAMSUNGPAY: [Hint_ProcessStatusChange] fg Change, pid : 24277 , isNotify : true , isForeground : true , fg list : [24277, 9063]
+12-18 10:46:47.885   917   917 I SurfaceFlinger:      DEVICE | 0x72911380a0 | 0002 | RGBA_8888 |   0.0    0.0 1080.0 2220.0 |    0    0 1080 2220 | com.sprint.care/com.sprint.app.ui.home.HomeActivity$_24277#0
+12-18 10:46:47.897 15464 15813 I SAMSUNGPAY: [Hint_ProcessStatusChange] fg Change, pid : 9063 , isNotify : true , isForeground : false , fg list : [24277]
+12-18 10:46:47.926 24277 24468 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:47.926 24277 24468 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:48.014 24277 24406 D ConnectivityManager: sendRequestForNetwork CallingUid : 10083, CallingPid : 24277
+12-18 10:46:48.014 24277 24406 D ConnectivityManager_URSP: hong blacklisted - false
+12-18 10:46:48.014 24277 24406 D ConnectivityManager: requestNetwork; CallingUid : 10083, CallingPid : 24277
+12-18 10:46:48.016  1367 10625 D ConnectivityService: requestNetwork for uid/pid:10083/24277 NetworkRequest [ REQUEST id=9838, [ Transports: CELLULAR Capabilities: INTERNET&NOT_RESTRICTED&TRUSTED&NOT_VPN Uid: 10083] ]
+12-18 10:46:48.507 24277 24546 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:48.507 24277 24546 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:48.855 24277 24546 D ConnectivityManager: unregisterNetworkCallback; CallingUid : 10083, CallingPid : 24277
+12-18 10:46:48.857 24277 24546 W ConnectivityManager.CallbackHandler: callback not found for CALLBACK_PRECHECK message
+12-18 10:46:48.934 24277 24595 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:48.934 24277 24595 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:49.328 24277 24595 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+12-18 10:46:49.328 24277 24595 I System.out: (HTTPLog)-Static: isSBSettingEnabled false
+
